@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mocha": "^10.3.0"
+  },
+  "name": "trailingzeroes",
+  "version": "1.0.1",
+  "description": "Find amount of zeroes in a number",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "zeroes",
+    "nodejs"
+  ],
+  "author": "mrdemonrush",
+  "license": "ISC"
+}
